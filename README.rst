@@ -5,7 +5,7 @@ aiocometd
 -------------------------------------------------
 
 This fork integrates the changes to make the library compatible with Python 3.10+ and bumps the version to ``0.4.6``.
-Changes heavily inspired by [Moussa Mokhtari](https://github.com/Moussa-rs) pull request on the original repository (see https://github.com/robertmrk/aiocometd/pull/17). 👈
+Changes heavily inspired by a pull request on the original repository (see https://github.com/robertmrk/aiocometd/pull/17). 👈
 
 Intro
 -----
