@@ -1,25 +1,14 @@
 aiocometd
 =========
 
-.. image:: https://badge.fury.io/py/aiocometd.svg
-    :target: https://badge.fury.io/py/aiocometd
-    :alt: PyPI package
+👉 cargo.one fork of the original ``aiocometd`` 👈
+-------------------------------------------------
 
-.. image:: https://readthedocs.org/projects/aiocometd/badge/?version=latest
-    :target: http://aiocometd.readthedocs.io/en/latest/?badge=latest
-    :alt: Documentation Status
+This fork integrates the changes to make the library compatible with Python 3.10+ and bumps the version to ``0.4.6``.
+Changes heavily inspired by [Moussa Mokhtari](https://github.com/Moussa-rs) pull request on the original repository (see https://github.com/robertmrk/aiocometd/pull/17). 👈
 
-.. image:: https://travis-ci.org/robertmrk/aiocometd.svg?branch=develop
-    :target: https://travis-ci.org/robertmrk/aiocometd
-    :alt: Build status
-
-.. image:: https://coveralls.io/repos/github/robertmrk/aiocometd/badge.svg
-    :target: https://coveralls.io/github/robertmrk/aiocometd
-    :alt: Coverage
-
-.. image:: https://img.shields.io/badge/License-MIT-yellow.svg
-    :target: https://opensource.org/licenses/MIT
-    :alt: MIT license
+Intro
+-----
 
 aiocometd is a CometD_ client built using asyncio_, implementing the Bayeux_
 protocol.
